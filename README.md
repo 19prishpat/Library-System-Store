@@ -21,8 +21,8 @@ To implement a C++ program that:
 - `lib_user.hpp` / `lib_user.cpp`: Defines `Student` and `Teacher` classes and their methods
 
 ## 🔧 Features
-- Add and remove books from the library
 - Display a list of all books
+- Add and remove books from the library
 - Perform advanced book searches by title, author, or genre
 - Display student and teacher user details
 
