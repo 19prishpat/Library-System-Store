@@ -1,7 +1,7 @@
 # 📚 SYDE 121 Library System
 
 ## Overview
-This is a C++ group project for the SYDE 121 course at the University of Waterloo. The program simulates a basic **Library System** that allows managing a collection of books and library users (students and teachers). The system provides functionality for adding, removing, and searching for books, along with storing and displaying user information.
+This is a C++ group project for the SYDE 121 course at the University of Waterloo. The program simulates a real **Library System** that allows managing a collection of books and library users (eg. students and teachers). The system provides functionality for adding, removing, and searching for books, along with storing and displaying user information.
 
 ## 👥 Authors
 - **Prisha Patel** 
